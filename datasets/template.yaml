@@ -1,0 +1,32 @@
+Name: 
+Description: 
+Documentation: 
+Contact: 
+ManagedBy: 
+UpdateFrequency: 
+Collabs:
+  ASDI:
+    Tags:
+Tags:
+License: |
+Resources:
+  - Description: 
+    ARN: 
+    Region: 
+    Type: 
+DataAtWork:
+  Tutorials:
+    - Title: 
+      URL: 
+      AuthorName: 
+      AuthorURL: 
+  Tools & Applications:
+    - Title: 
+      URL: 
+      AuthorName: 
+      AuthorURL: 
+  Publications:
+    - Title:
+      URL:
+      AuthorName:
+      AuthorURL:
