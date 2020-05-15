@@ -1,0 +1,24 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.8
+      nodejs: 10
+    commands:
+      - pip install -r requirements.txt
+  pre_build:
+    commands:
+      - bash _scripts/add_metadata.sh
+      - bash _scripts/test.sh
+      - pip install awscli --upgrade
+      - git clone https://gitlab.com/radiantearth/mlhub/data-registry-browser.git
+      - mkdir -p data-registry-browser/data-sources/mlhub-data-registry
+      - cp -R datasets data-registry-browser/data-sources/mlhub-data-registry/
+      - cd data-registry-browser
+      - npm install
+  build:
+    commands:
+      - BASE_URL=https://data.mlhub.earth npm run build
+      - cd ../
+      - bash _scripts/deploy.sh
