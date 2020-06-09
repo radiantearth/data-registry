@@ -2,18 +2,16 @@ Name:
 Description: 
 Documentation: 
 Contact: 
-ManagedBy: 
-UpdateFrequency: 
-Collabs:
-  ASDI:
-    Tags:
+CreatedBy: 
 Tags:
-License: |
+BoundingBox:
+DOI: 
+Citation: 
 Resources:
   - Description: 
-    ARN: 
-    Region: 
+    CollectionID: 
     Type: 
+    License: 
 DataAtWork:
   Tutorials:
     - Title: 
