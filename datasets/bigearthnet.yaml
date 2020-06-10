@@ -1,0 +1,35 @@
+Name: BigEarthNet
+Description: "BigEarthNet is a new large-scale Sentinel-2 benchmark archive, consisting of 590,326 Sentinel-2 image patches. To construct BigEarthNet, 125 Sentinel-2 tiles acquired between June 2017 and May 2018 over the 10 countries (Austria, Belgium, Finland, Ireland, Kosovo, Lithuania, Luxembourg, Portugal, Serbia, Switzerland) of Europe were initially selected. All the tiles were atmospherically corrected by the Sentinel-2 Level 2A product generation and formatting tool (sen2cor). Then, they were divided into 590,326 non-overlapping image patches. Each image patch was annotated by the multiple land-cover classes (i.e., multi-labels) that were provided from the CORINE Land Cover database of the year 2018 (CLC 2018)."
+Documentation: http://bigearth.net/static/documents/BigEarthNetManual.pdf
+Contact: contact@bigearth.net
+CreatedBy: "[BigEarthNet](http://bigearth.net/)"
+Tags:
+  - Land Cover
+  - Image Classification
+  - Sentinel-2
+DOI: 10.14279/depositonce-10149
+Citation: "G. Sumbul, M. Charfuelan, B. Demir, V. Markl, \"[BigEarthNet: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding](http://bigearth.net/static/documents/BigEarthNet_IGARSS_2019.pdf)\", IEEE International Geoscience and Remote Sensing Symposium, pp. 5901-5904, Yokohama, Japan, 2019."
+Resources:
+  - Description: Source Imagery for BigEarthNet
+    CollectionID: bigearthnet_v1_source
+    Type: Source Imagery
+    License: "[CDLA-Permissive-1.0](http://bigearth.net/downloads/documents/License.pdf)"
+  - Description: Labels for BigEarthNet
+    CollectionID: bigearthnet_v1_labels
+    Type: Labels
+    License: "[CDLA-Permissive-1.0](http://bigearth.net/downloads/documents/License.pdf)"
+DataAtWork:
+  Tutorials:
+    - Title: Accessing BigEarthNet through the Radiant MLHub API
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-bigearthnet.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+  Publications:
+    - Title: "BigEarthNet: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding"
+      URL: http://bigearth.net/static/documents/BigEarthNet_IGARSS_2019.pdf
+      AuthorName: Gencer Sumbul
+      AuthorURL: https://www.linkedin.com/in/gencer-s%C3%BCmb%C3%BCl-b558b625/
+
+
+RegistryEntryAdded: "2020-06-09"
+RegistryEntryLastModified: "2020-06-09"
