@@ -5,8 +5,8 @@ Contact: contact@bigearth.net
 CreatedBy: "[BigEarthNet](http://bigearth.net/)"
 Tags:
   - Land Cover
-  - Classification
-  - Sentinel 2
+  - Image Classification
+  - Sentinel-2
 DOI: 10.14279/depositonce-10149
 Citation: "G. Sumbul, M. Charfuelan, B. Demir, V. Markl, \"[BigEarthNet: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding](http://bigearth.net/static/documents/BigEarthNet_IGARSS_2019.pdf)\", IEEE International Geoscience and Remote Sensing Symposium, pp. 5901-5904, Yokohama, Japan, 2019."
 Resources:
