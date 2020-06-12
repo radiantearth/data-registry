@@ -1,17 +1,10 @@
 - agriculture
-- analytics
-- biodiversity
-- cities
-- climate
-- coastal
-- computer vision
-- deep learning
-- disaster response
-- earth observation
-- environmental
-- food security
-- geospatial
-- machine learning
-- mapping
-- satellite imagery
-- sustainability
+- buildings
+- crop type
+- image classification
+- land cover
+- landsat 8
+- naip
+- roads
+- segmentation
+- sentinel-2
