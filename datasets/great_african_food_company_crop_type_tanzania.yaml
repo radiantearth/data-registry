@@ -1,0 +1,28 @@
+Name: Great African Food Company Crop Type Tanzania
+Description: "TODO: Add description"
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/african-crops-01/Tanzania_Documentation.pdf
+Contact: contact@radiant.earth
+CreatedBy: "[TODO: Add CreatedBy]()"
+Tags:
+  - crop type
+  - segmentation
+  - sentinel-2
+Citation: "Great African Food Company. (2019) Great African Food Company Tanzania Ground Reference Crop Type Dataset, Version 1. [Indicate subset used]. Radiant ML Hub. [Date Accessed]"
+Resources:
+  - Description: Crop Type Labels
+    CollectionID: ref_african_crops_tanzania_01
+    Type: Labels
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: Source Imagery
+    CollectionID: ref_african_imagery_01
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+DataAtWork:
+  Tutorials:
+    - Title: How to use the Radiant MLHub API
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-api-know-how.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+
+RegistryEntryAdded: "2020-06-17"
+RegistryEntryLastModified: "2020-06-17"

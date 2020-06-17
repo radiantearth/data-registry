@@ -1,0 +1,36 @@
+Name: CV4A Kenya Crop Type Competition
+Description: "TODO: Add description"
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/kenya-crop-challenge/FieldIds.csv
+Contact: contact@radiant.earth
+CreatedBy: "[TODO: Add CreatedBy]()"
+Tags:
+  - crop type
+  - segmentation
+  - sentinel-2
+Citation: "Radiant Earth Foundation (2020) CV4A Competition Kenya Crop Type Dataset, Version 1. [Indicate subset used]. Radiant ML Hub. [Date Accessed]"
+Resources:
+  - Description: Crop Type Labels
+    CollectionID: ref_african_crops_kenya_02_labels
+    Type: Labels
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: Source Imagery
+    CollectionID: ref_african_crops_kenya_02_source
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+DataAtWork:
+  Tutorials:
+    - Title: A Guide to Access the data on Radiant MLHub
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-download-data.ipynb
+      AuthorName: Hamed Alemohammad
+      AuthorURL: https://www.linkedin.com/in/hamedalemohammad/
+    - Title: A Guide to load the data in Python
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-load-data.ipynb
+      AuthorName: Hamed Alemohammad
+      AuthorURL: https://www.linkedin.com/in/hamedalemohammad/
+    - Title: Visualizing Data in Python
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-visualize-s2-data.ipynb
+      AuthorName: Marc Rußwurm
+      AuthorURL: https://www.linkedin.com/in/marcrusswurm/
+
+RegistryEntryAdded: "2020-06-17"
+RegistryEntryLastModified: "2020-06-17"
