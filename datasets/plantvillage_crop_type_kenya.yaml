@@ -1,8 +1,8 @@
 Name: PlantVillage Crop Type Kenya
 Description: "TODO: Add description"
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/african-crops-01/Kenya_Documentation.pdf
-Contact: contact@radiant.earth
-CreatedBy: "[TODO: Add CreatedBy]()"
+Contact: ml@radiant.earth
+CreatedBy: "[PlantVillage](https://plantvillage.psu.edu/), [Radiant Earth Foundation](https://www.radiant.earth/)"
 Tags:
   - crop type
   - segmentation

@@ -1,8 +1,8 @@
 Name: CV4A Kenya Crop Type Competition
 Description: "TODO: Add description"
-Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/kenya-crop-challenge/FieldIds.csv
-Contact: contact@radiant.earth
-CreatedBy: "[TODO: Add CreatedBy]()"
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/kenya-crop-challenge/Documentation.pdf
+Contact: ml@radiant.earth
+CreatedBy: "[Radiant Earth Foundation](https://www.radiant.earth/), [PlantVillage](https://plantvillage.psu.edu/)"
 Tags:
   - crop type
   - segmentation
@@ -31,6 +31,10 @@ DataAtWork:
       URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-visualize-s2-data.ipynb
       AuthorName: Marc Rußwurm
       AuthorURL: https://www.linkedin.com/in/marcrusswurm/
+    - Title: CV4A ICLR 2020 Starter Notebooks
+      URL: https://github.com/sentinel-hub/cv4a-iclr-2020-starter-notebooks
+      AuthorName: Devis Peressutti
+      AuthorURL: https://sites.google.com/site/devisperessutti/home
 
 RegistryEntryAdded: "2020-06-17"
 RegistryEntryLastModified: "2020-06-17"
