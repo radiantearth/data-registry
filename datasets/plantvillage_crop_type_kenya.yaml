@@ -1,5 +1,7 @@
 Name: PlantVillage Crop Type Kenya
-Description: "TODO: Add description"
+Description: "This dataset contains field boundaries and crop type information for fields in Kenya. PlantVillage app is used to collect multiple points around each field and collectors have access to basemap imagery in the app during data collection. They use the basemap as a guide in collecting and verifying the points.
+<br><br>
+Post ground data collection, Radiant Earth Foundation conducted a quality control of the polygons using Sentinel-2 imagery of the growing season as well as Google basemap imagery. Two actions were taken on the data 1)several polygons that had overlapping areas with different crop labels were removed, 2) invalid polygons where multiple points were collected in corners of the field (within a distance of less than 0.5m) and the overall shape was not convex, were corrected. Finally, ground reference polygons were matched with corresponding time series data from Sentinel-2 satellites (listed in the source imagery property of each label item). "
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/african-crops-01/Kenya_Documentation.pdf
 Contact: ml@radiant.earth
 CreatedBy: "[PlantVillage](https://plantvillage.psu.edu/), [Radiant Earth Foundation](https://www.radiant.earth/)"

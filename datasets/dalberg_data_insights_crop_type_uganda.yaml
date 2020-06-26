@@ -1,5 +1,7 @@
 Name: Dalberg Data Insights Crop Type Uganda
-Description: "TODO: Add description"
+Description: "This dataset contains crop types and field boundaries along with other metadata collected in a campaign run by Dalberg Data Insights in the end of September 2017, as close as possible to the harvest period of 2017. GeoODKapps were used to collect approximately four points per field to get widest coverage during two field campaigns.
+<br><br>
+Post ground data collection, Radiant Earth Foundation conducted a quality control of the polygons using Sentinel-2 imagery of the growing season as well as Google basemap imagery, and removed several polygons that overlapped with infrastructure or built-up areas. Finally, ground reference polygons were matched with corresponding time series data from Sentinel-2 satellites (listed in the source imagery property of each label item)."
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/african-crops-01/Uganda_Documentation.pdf
 Contact: Christophe.Bocquet@dalberg.com
 CreatedBy: "[Dalberg Data Insights](https://dalberg.com/what-we-do/dalberg-data-insights/), [Radiant Earth Foundation](https://www.radiant.earth/)"
