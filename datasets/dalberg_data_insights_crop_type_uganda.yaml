@@ -9,6 +9,7 @@ Tags:
   - crop type
   - segmentation
   - sentinel-2
+DOI: 10.34911/rdnt.eii04x
 Citation: "Bocquet, C., Dalberg Data Insights. (2019) Dalberg Data Insights Uganda Crop Classification, Version 1. [Indicate subset used]. Radiant ML Hub. [Date Accessed]"
 Resources:
   - Description: Crop Type Labels

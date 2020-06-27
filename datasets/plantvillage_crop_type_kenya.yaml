@@ -9,6 +9,7 @@ Tags:
   - crop type
   - segmentation
   - sentinel-2
+DOI: 10.34911/rdnt.u41j87
 Citation: "PlantVillage. (2019) PlantVillage Kenya Ground Reference Crop Type Dataset, Version 1. [Indicate subset used]. Radiant ML Hub. [Date Accessed]"
 Resources:
   - Description: Crop Type Labels
