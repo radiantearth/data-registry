@@ -1,0 +1,31 @@
+Name: Great African Food Company Crop Type Tanzania
+Description: "This dataset contains field boundaries and crop types from farms in Tanzania. Great African Food Company used Farmforce app to collect a point within each field, and recorded other properties including area of the field.
+<br><br>
+Radiant Earth Foundation team used the point measurements from the ground data collection and the area of each field overlaid on satellite imagery (multiple Sentinel-2 scenes during the growing season, and Google basemap) to draw the polygons for each field. These polygons do not cover the entirety of the field, and are always enclosed within the field. Therefore, they should not be used for field boundary detection, rather as reference polygons for crop type classification. Data points that were not clear if they belong to a neighboring farm (e.g. the point was on the edge of two farms)were removed from the dataset. Finally, ground reference polygons were matched with corresponding time series data from Sentinel-2 satellites (listed in the source imagery property of each label item)."
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/african-crops-01/Tanzania_Documentation.pdf
+Contact: ml@radiant.earth
+CreatedBy: "[Great African Food Company](https://www.linkedin.com/company/gafco/), [Radiant Earth Foundation](https://www.radiant.earth/)"
+Tags:
+  - crop type
+  - segmentation
+  - sentinel-2
+DOI: 10.34911/rdnt.5vx40r
+Citation: "Great African Food Company (2019) "Great African Food Company Tanzania Ground Reference Crop Type Dataset", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/RDNT.5VX40R"
+Resources:
+  - Description: Crop Type Labels
+    CollectionID: ref_african_crops_tanzania_01
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: Source Imagery
+    CollectionID: ref_african_imagery_01
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+DataAtWork:
+  Tutorials:
+    - Title: How to use the Radiant MLHub API
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-api-know-how.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+
+RegistryEntryAdded: "2020-06-17"
+RegistryEntryLastModified: "2020-06-17"
