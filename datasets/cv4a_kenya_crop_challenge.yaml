@@ -14,7 +14,7 @@ Tags:
   - segmentation
   - sentinel-2
 DOI: 10.34911/rdnt.dw605x
-Citation: "Radiant Earth Foundation (2020) CV4A Competition Kenya Crop Type Dataset, Version 1. [Indicate subset used]. Radiant ML Hub. [Date Accessed]"
+Citation: "Radiant Earth Foundation (2020) "CV4A Competition Kenya Crop Type Dataset", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/RDNT.DW605X"
 Resources:
   - Description: Crop Type Labels
     CollectionID: ref_african_crops_kenya_02_labels
