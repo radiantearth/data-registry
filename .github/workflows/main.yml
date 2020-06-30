@@ -14,7 +14,7 @@ jobs:
         token: ${{ secrets.TOKEN }}
         project_id: 18783351
         ref: staging
-      if: ${{ github.ref == 'dev' }}
+      if: ${{ github.ref == 'refs/heads/dev' }}
     - name: Trigger Master
       uses: appleboy/gitlab-ci-action@master
       with:
@@ -22,4 +22,4 @@ jobs:
         token: ${{ secrets.TOKEN }}
         project_id: 18783351
         ref: master
-      if: ${{ github.ref == 'master' }}
+      if: ${{ github.ref == 'refs/heads/master' }}
