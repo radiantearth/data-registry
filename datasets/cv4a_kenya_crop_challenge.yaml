@@ -43,7 +43,7 @@ DataAtWork:
       AuthorName: Devis Peressutti
       AuthorURL: https://sites.google.com/site/devisperessutti/home
   Publications:
-    - Title: Field-Level Crop Type Classification with k Nearest Neighbors: A Baseline for a New Kenya Smallholder Dataset
+    - Title: "Field-Level Crop Type Classification with k Nearest Neighbors: A Baseline for a New Kenya Smallholder Dataset"
       URL: https://arxiv.org/abs/2004.03023
       AuthorName: Hannah Kerner, Catherine Nakalembe and Inbal Becker-Reshef
 
