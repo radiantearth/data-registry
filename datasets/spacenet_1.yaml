@@ -33,13 +33,13 @@ Resources:
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 DataAtWork:
   Publications:
-    - Title: 2nd SpaceNet Competition Winners Code Release
-      URL: "https://medium.com/the-downlinq/2nd-spacenet-competition-winners-code-release-c7473eea7c11"
-      AuthorName: David Lindenbaum
-      AuthorURL: https://medium.com/@david.lindenbaum
+    - Title: "Getting Started With SpaceNet Data"
+      URL: "https://medium.com/the-downlinq/getting-started-with-spacenet-data-827fd2ec9f53"
+      AuthorName: Adam Van Etten
+      AuthorURL: "https://www.linkedin.com/in/adamvanetten/"
   Tools & Applications:
-    - Title: SpaceNet Round 2 Challenge Implementations
-      URL: "https://github.com/SpaceNetChallenge/BuildingDetectors_Round2"
+    - Title: SpaceNet Challenge 1 Implementations
+      URL: "https://github.com/SpaceNetChallenge/BuildingDetectors"
 
 RegistryEntryAdded: "2020-06-30"
 RegistryEntryLastModified: "2020-06-30"

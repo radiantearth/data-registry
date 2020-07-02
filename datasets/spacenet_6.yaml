@@ -12,6 +12,7 @@ Tags:
   - segmentation
   - sar
   - worldview-2
+  - off-nadir
 Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
 Resources:
   - Description: SpaceNet 6 Rotterdam Chipped Training Dataset
@@ -20,13 +21,13 @@ Resources:
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 DataAtWork:
   Publications:
-    - Title: 2nd SpaceNet Competition Winners Code Release
-      URL: "https://medium.com/the-downlinq/2nd-spacenet-competition-winners-code-release-c7473eea7c11"
-      AuthorName: David Lindenbaum
-      AuthorURL: https://medium.com/@david.lindenbaum
-  Tools & Applications:
-    - Title: SpaceNet Round 2 Challenge Implementations
-      URL: "https://github.com/SpaceNetChallenge/BuildingDetectors_Round2"
+    - Title: "SpaceNet 6: Announcing the Winners"
+      URL: "https://medium.com/the-downlinq/spacenet-6-announcing-the-winners-df817712b515"
+      AuthorName: Jake Shermeyer
+      AuthorURL: "https://www.linkedin.com/in/shermeyer/"
+    - Title: "SpaceNet 6: Multi-Sensor All Weather Mapping Dataset"
+      URL: "https://arxiv.org/abs/2004.06500"
+      AuthorName: Jake Shermeyer, et al.
 
 RegistryEntryAdded: "2020-06-30"
 RegistryEntryLastModified: "2020-06-30"

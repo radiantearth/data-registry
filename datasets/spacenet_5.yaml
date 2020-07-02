@@ -10,7 +10,7 @@ Documentation: https://spacenet.ai/sn5-challenge/
 Contact: https://spacenet.ai/contact-us/
 CreatedBy: "[SpaceNet LLC](https://spacenet.ai/)"
 Tags:
-  - road networks
+  - road network
   - segmentation
   - worldview-3
 Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
@@ -25,13 +25,17 @@ Resources:
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 DataAtWork:
   Publications:
-    - Title: 2nd SpaceNet Competition Winners Code Release
-      URL: "https://medium.com/the-downlinq/2nd-spacenet-competition-winners-code-release-c7473eea7c11"
-      AuthorName: David Lindenbaum
-      AuthorURL: https://medium.com/@david.lindenbaum
+    - Title: "SpaceNet 5 Winning Model Release: End of the Road"
+      URL: "https://medium.com/the-downlinq/spacenet-5-winning-model-release-end-of-the-road-fd02e00b826c"
+      AuthorName: Adam Van Etten
+      AuthorURL: "https://www.linkedin.com/in/adamvanetten/"
+    - Title: "Announcing the Winners of the SpaceNet 5 Challenge"
+      URL: "https://medium.com/the-downlinq/announcing-the-winners-of-the-spacenet-5-challenge-5b4e4d92e105"
+      AuthorName: Adam Van Etten
+      AuthorURL: "https://www.linkedin.com/in/adamvanetten/"
   Tools & Applications:
-    - Title: SpaceNet Round 2 Challenge Implementations
-      URL: "https://github.com/SpaceNetChallenge/BuildingDetectors_Round2"
+    - Title: "SpaceNet Challenge Round 5: Road Networks and Optimized Routing Competitor solutions"
+      URL: "https://github.com/SpaceNetChallenge/SpaceNet_Optimized_Routing_Solutions"
 
 RegistryEntryAdded: "2020-06-30"
 RegistryEntryLastModified: "2020-06-30"

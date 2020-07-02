@@ -18,13 +18,13 @@ Resources:
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 DataAtWork:
   Publications:
-    - Title: 2nd SpaceNet Competition Winners Code Release
-      URL: "https://medium.com/the-downlinq/2nd-spacenet-competition-winners-code-release-c7473eea7c11"
-      AuthorName: David Lindenbaum
-      AuthorURL: https://medium.com/@david.lindenbaum
+    - Title: "The SpaceNet Challenge Off-Nadir Buildings: Introducing the winners"
+      URL: "https://medium.com/the-downlinq/the-spacenet-challenge-off-nadir-buildings-introducing-the-winners-b60f2b700266"
+      AuthorName: Nick Weir
+      AuthorURL: "https://www.linkedin.com/in/niweir/"
   Tools & Applications:
-    - Title: SpaceNet Round 2 Challenge Implementations
-      URL: "https://github.com/SpaceNetChallenge/BuildingDetectors_Round2"
+    - Title: SpaceNet Challenge Round 4: Off-Nadir Buildings Competitor solutions
+      URL: "https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions"
 
 RegistryEntryAdded: "2020-06-30"
 RegistryEntryLastModified: "2020-06-30"
