@@ -1,0 +1,33 @@
+Name: SpaceNet 6
+Description: "Synthetic Aperture Radar (SAR) is a unique form of radar that can penetrate clouds, collect during all- weather conditions, and capture data day and night. Overhead collects from SAR satellites could be particularly valuable in the quest to aid disaster response in instances where weather and cloud cover can obstruct traditional electro-optical sensors. However, despite these advantages, there is limited open data available to researchers to explore the effectiveness of SAR for such applications, particularly at ultra-high resolutions.
+<br><br>
+The task of SpaceNet 6 was to automatically extract building footprints with computer vision and artificial intelligence (AI) algorithms using a combination of SAR and electro-optical imagery datasets. This openly-licensed dataset features a unique combination of half-meter Synthetic Aperture Radar (SAR) imagery from Capella Space and half-meter electro-optical (EO) imagery from Maxar’s WorldView 2 satellite. The area of interest for the challenge was centered over the largest port in Europe: Rotterdam, the Netherlands. This area features thousands of buildings, vehicles, and boats of various sizes, to make an effective test bed for SAR and the fusion of these two types of data.
+<br><br>
+In this challenge, the training dataset contained both SAR and EO imagery, however, the testing and scoring datasets contained only SAR data. Consequently, the EO data could be used for pre-processing the SAR data in some fashion, such as colorization, domain adaptation, or image translation, but cannot be used to directly map buildings. The dataset was structured to mimic real-world scenarios where historical EO data may be available, but concurrent EO collection with SAR is often not possible due to inconsistent orbits of the sensors, or cloud cover that will render the EO data unusable."
+Documentation: https://spacenet.ai/sn6-challenge/
+Contact: https://spacenet.ai/contact-us/
+CreatedBy: "[SpaceNet LLC](https://spacenet.ai/)"
+Tags:
+  - building footprints
+  - segmentation
+  - sar
+  - worldview-2
+  - off-nadir
+Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
+Resources:
+  - Description: SpaceNet 6 Rotterdam Chipped Training Dataset
+    CollectionID: sn6_AOI_11_Rotterdaam
+    Type: Labels, Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+DataAtWork:
+  Publications:
+    - Title: "SpaceNet 6: Announcing the Winners"
+      URL: "https://medium.com/the-downlinq/spacenet-6-announcing-the-winners-df817712b515"
+      AuthorName: Jake Shermeyer
+      AuthorURL: "https://www.linkedin.com/in/shermeyer/"
+    - Title: "SpaceNet 6: Multi-Sensor All Weather Mapping Dataset"
+      URL: "https://arxiv.org/abs/2004.06500"
+      AuthorName: Jake Shermeyer, et al.
+
+RegistryEntryAdded: "2020-06-30"
+RegistryEntryLastModified: "2020-06-30"

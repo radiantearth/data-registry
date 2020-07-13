@@ -1,0 +1,25 @@
+name: Trigger GitLab Build Pipelines
+on:
+  push:
+    branches: [ master, dev ]
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Trigger Staging
+      uses: appleboy/gitlab-ci-action@master
+      with:
+        url: "https://gitlab.com"
+        token: ${{ secrets.TOKEN }}
+        project_id: 18783351
+        ref: staging
+      if: ${{ github.ref == 'refs/heads/dev' }}
+    - name: Trigger Master
+      uses: appleboy/gitlab-ci-action@master
+      with:
+        url: "https://gitlab.com"
+        token: ${{ secrets.TOKEN }}
+        project_id: 18783351
+        ref: master
+      if: ${{ github.ref == 'refs/heads/master' }}

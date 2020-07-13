@@ -1,41 +1,41 @@
-Name: SpaceNet 2
+Name: SpaceNet 3
 Description: "The commercialization of the geospatial industry has led to an explosive amount of data being collected to characterize our changing planet. One area for innovation is the application of computer vision and deep learning to extract information from satellite imagery at scale. CosmiQ Works, Radiant Solutions and NVIDIA have partnered to release the SpaceNet data set to the public to enable developers and data scientists to work with this data.  
 <br><br>
 Today, map features such as roads, building footprints, and points of interest are primarily created through manual techniques. We believe that advancing automated feature extraction techniques will serve important downstream uses of map data including humanitarian and disaster response, as observed by the need to map road networks during the response to recent flooding in Bangladesh and Hurricane Maria in Puerto Rico. Furthermore, we think that solving this challenge is an important stepping stone to unleashing the power of advanced computer vision algorithms applied to a variety of remote sensing data applications in both the public and private sector."
-Documentation: https://spacenetchallenge.github.io/datasets/spacenetBuildings-V2summary.html
+Documentation: https://spacenet.ai/spacenet-roads-dataset/
 Contact: https://spacenet.ai/contact-us/
 CreatedBy: "[SpaceNet LLC](https://spacenet.ai/)"
 Tags:
-  - building footprints
+  - road network
   - segmentation
   - worldview-3
 Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
 Resources:
-  - Description: SpaceNet 2 Vegas Chipped Training Dataset
-    CollectionID: sn2_AOI_2_Vegas
+  - Description: SpaceNet 3 Vegas Chipped Training Dataset
+    CollectionID: sn3_AOI_2_Vegas
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-  - Description: SpaceNet 2 Paris Chipped Training Dataset
-    CollectionID: sn2_AOI_3_Paris
+  - Description: SpaceNet 3 Paris Chipped Training Dataset
+    CollectionID: sn3_AOI_3_Paris
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-  - Description: SpaceNet 2 Shanghai Chipped Training Dataset
-    CollectionID: sn2_AOI_4_Shanghai
+  - Description: SpaceNet 3 Shanghai Chipped Training Dataset
+    CollectionID: sn3_AOI_4_Shanghai
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-  - Description: SpaceNet 2 Khartoum Chipped Training Dataset
-    CollectionID: sn2_AOI_5_Khartoum
+  - Description: SpaceNet 3 Khartoum Chipped Training Dataset
+    CollectionID: sn3_AOI_5_Khartoum
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 DataAtWork:
   Publications:
-    - Title: 2nd SpaceNet Competition Winners Code Release
-      URL: "https://medium.com/the-downlinq/2nd-spacenet-competition-winners-code-release-c7473eea7c11"
+    - Title: "SpaceNet Roads Extraction and Routing Challenge Solutions are Released"
+      URL: "https://medium.com/the-downlinq/spacenet-roads-extraction-and-routing-challenge-solutions-are-released-48830c5184ef"
       AuthorName: David Lindenbaum
       AuthorURL: "https://www.linkedin.com/in/david-l-a7678b15/"
   Tools & Applications:
-    - Title: SpaceNet Round 2 Challenge Implementations
-      URL: "https://github.com/SpaceNetChallenge/BuildingDetectors_Round2"
+    - Title: SpaceNet Road Detection and Routing Challenge Solutions
+      URL: "https://github.com/SpaceNetChallenge/RoadDetector"
 
-RegistryEntryAdded: "2020-06-09"
-RegistryEntryLastModified: "2020-06-09"
+RegistryEntryAdded: "2020-06-30"
+RegistryEntryLastModified: "2020-06-30"

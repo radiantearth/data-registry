@@ -1,0 +1,41 @@
+Name: SpaceNet 5
+Description: "Determining optimal routing paths in near real-time is at the heart of many humanitarian, civil, military, and commercial challenges. This statement is as true today as it was two years ago when the SpaceNet Partners announced the [SpaceNet Challenge 3](https://spacenet.ai/spacenet-roads-dataset/) focused on road network detection and routing. In a disaster response scenario, for example, pre-existing foundational maps are often rendered useless due to debris, flooding, or other obstructions. Satellite or aerial imagery often provides the first large-scale data in such scenarios, rendering such imagery attractive.
+<br><br>
+The SpaceNet 5 challenge sought to build upon the advances from SpaceNet 3 and test challenge participants to automatically extract road networks and routing information from satellite imagery, along with travel time estimates along all roadways, thereby permitting true optimal routing.
+<br><br>
+The task of this challenge was to output a detailed graph structure with edges corresponding to roadways and nodes corresponding to intersections and end points, with estimates for route travel times on all detected edges. You can find a detailed description of CosmiQ Works’ algorithmic baseline on their blog at [The DownLinQ](https://medium.com/the-downlinq/inferring-route-travel-times-with-spacenet-7f55e1afdd6d).
+<br><br>
+SpaceNet open sourced new data sets for the following cities: Moscow, Russia; Mumbai, India; and San Juan, Puerto Rico. For the first time in SpaceNet history, the final submissions were tested on a mystery city dataset that was revealed and open sourced at the end of the Challenge."
+Documentation: https://spacenet.ai/sn5-challenge/
+Contact: https://spacenet.ai/contact-us/
+CreatedBy: "[SpaceNet LLC](https://spacenet.ai/)"
+Tags:
+  - road network
+  - segmentation
+  - worldview-3
+Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
+Resources:
+  - Description: SpaceNet 5 Moscow Chipped Training Dataset
+    CollectionID: sn5_AOI_7_Moscow
+    Type: Labels, Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: SpaceNet 5 Mumbai Chipped Training Dataset
+    CollectionID: sn5_AOI_8_Mumbai
+    Type: Labels, Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+DataAtWork:
+  Publications:
+    - Title: "SpaceNet 5 Winning Model Release: End of the Road"
+      URL: "https://medium.com/the-downlinq/spacenet-5-winning-model-release-end-of-the-road-fd02e00b826c"
+      AuthorName: Adam Van Etten
+      AuthorURL: "https://www.linkedin.com/in/adamvanetten/"
+    - Title: "Announcing the Winners of the SpaceNet 5 Challenge"
+      URL: "https://medium.com/the-downlinq/announcing-the-winners-of-the-spacenet-5-challenge-5b4e4d92e105"
+      AuthorName: Adam Van Etten
+      AuthorURL: "https://www.linkedin.com/in/adamvanetten/"
+  Tools & Applications:
+    - Title: "SpaceNet Challenge Round 5: Road Networks and Optimized Routing Competitor solutions"
+      URL: "https://github.com/SpaceNetChallenge/SpaceNet_Optimized_Routing_Solutions"
+
+RegistryEntryAdded: "2020-06-30"
+RegistryEntryLastModified: "2020-06-30"
