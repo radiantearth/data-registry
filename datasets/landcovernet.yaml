@@ -1,0 +1,29 @@
+Name: LandCoverNet
+Description: "TODO: Description"
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/landcovernet/Documentation.pdf
+Contact: ml@radiant.earth
+CreatedBy: "[Radiant Earth Foundation](https://radiant.earth/)"
+Tags:
+  - land cover
+  - segmentation
+  - sentinel-2
+DOI: 10.34911/rdnt.d2ce8i
+Citation: "Alemohammad S.H., Ballantyne A., Bromberg Gaber Y., Booth K., Nakanuku-Diggs L., & Miglarese A.H. (2020) \"LandCoverNet: A Global Land Cover Classification Training Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.d2ce8i"
+Resources:
+  - Description: Source Imagery for LandCoverNet
+    CollectionID: ref_landcovernet_v1_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: Labels for LandCoverNet
+    CollectionID: ref_landcovernet_v1_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+DataAtWork:
+  Tutorials:
+    - Title: TODO: Tutorial
+      URL: TODO: Tutorial
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+
+RegistryEntryAdded: "2020-07-28"
+RegistryEntryLastModified: "2020-07-28"
