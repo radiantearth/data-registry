@@ -1,0 +1,30 @@
+Name: LandCoverNet
+Description: "LandCoverNet is a global annual land cover classification training dataset with labels for the multi-spectral satellite imagery from Sentinel-2 mission in 2018. Version 1.0 of the dataset contains data across Africa, which accounts for ~1/5 of the global dataset. Each pixel is identified as one of the seven land cover classes based on its annual time series. These classes are water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice.<br><br>There are a total of 1980 image chips of 256 x 256 pixels in V1.0 spanning 66 tiles of Sentinel-2. Each image chip contains temporal observations from Sentinel-2 surface reflectance product (L2A) at 10m spatial resolution and an annual class label, all stored in a raster format (GeoTIFF files).
+<br><br>Radiant Earth Foundation designed and generated this dataset with a grant from [Schmidt Futures](https://schmidtfutures.com/) and in kind technology support from [Sinergise](https://www.sinergise.com/)."
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/landcovernet/Documentation.pdf
+Contact: ml@radiant.earth
+CreatedBy: "[Radiant Earth Foundation](https://radiant.earth/)"
+Tags:
+  - land cover
+  - segmentation
+  - sentinel-2
+DOI: 10.34911/rdnt.d2ce8i
+Citation: "Alemohammad S.H., Ballantyne A., Bromberg Gaber Y., Booth K., Nakanuku-Diggs L., & Miglarese A.H. (2020) \"LandCoverNet: A Global Land Cover Classification Training Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.d2ce8i"
+Resources:
+  - Description: Source Imagery for LandCoverNet
+    CollectionID: ref_landcovernet_v1_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: Labels for LandCoverNet
+    CollectionID: ref_landcovernet_v1_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+DataAtWork:
+  Tutorials:
+    - Title: Accessing LandCoverNet through the Radiant MLHub API 
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-landcovernet.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+
+RegistryEntryAdded: "2020-07-28"
+RegistryEntryLastModified: "2020-07-28"
