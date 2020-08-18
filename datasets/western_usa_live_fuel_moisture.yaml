@@ -11,7 +11,7 @@ Tags:
 DOI: 10.1016/j.rse.2020.111797
 Citation: "Rao, K., Williams, A.P., Fortin, J. & Konings, A.G. (2020). SAR-enhanced mapping of live fuel moisture content. Remote Sens. Environ., 245."
 Resources:
-  - Description: Labels
+  - Description: Labels and Input Variables
     CollectionID: su_sar_moisture_content
     Type: Labels
     License: "[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)"
