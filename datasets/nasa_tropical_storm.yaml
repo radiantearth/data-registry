@@ -5,7 +5,7 @@ Contact: manil.maskey@nasa.gov
 CreatedBy: "[NASA Interagency Implementation and Advanced Concepts Team (IMPACT)](https://earthdata.nasa.gov/esds/impact)"
 Tags:
   - tropical storm
-  - image classification
+  - regression
   - goes
 DOI: 10.34911/rdnt.1x18sn
 Citation: "M. Maskey, R. Ramachandran, I. Gurung, M. Ramasubramanian, \"Tropical Cyclone Satellite Imagery and Wind Speed Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.1x18sn"
