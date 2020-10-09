@@ -1,0 +1,35 @@
+Name: Tropical Cyclone Satellite Imagery and Wind Speed Dataset
+Description: "A collection of tropical storms in the Atlantic and East Pacific Oceans from 2000 to 2019 with corresponding maximum sustained surface wind speed. "
+Documentation: http://doi.org/10.1109/JSTARS.2020.3011907
+Contact: manil.maskey@nasa.gov
+CreatedBy: "[NASA Interagency Implementation and Advanced Concepts Team (IMPACT)](https://earthdata.nasa.gov/esds/impact)"
+Tags:
+  - tropical storm
+  - image classification
+  - goes
+DOI: 10.34911/rdnt.1x18sn
+Citation: "M. Maskey, R. Ramachandran, I. Gurung, M. Ramasubramanian, \"Tropical Cyclone Satellite Imagery and Wind Speed Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.1x18sn"
+Resources:
+  - Description: GOES Source Imagery 
+    CollectionID: 
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: Storms wind speed
+    CollectionID:
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+DataAtWork:
+  Tools & Applications:
+    - Title: Deep Learning-based Hurricane Intensity Estimator
+      URL: http://hurricane.dsig.net/storms/
+      AuthorName: NASA IMPACT
+      AuthorURL: https://earthdata.nasa.gov/esds/impact
+  Publications:
+    - Title: "Deepti: Deep-Learning-Based Tropical Cyclone Intensity Estimation System"
+      URL: http://doi.org/10.1109/JSTARS.2020.3011907
+      AuthorName: Manil Maskey
+      AuthorURL: https://www.linkedin.com/in/manilmaskey/
+
+
+RegistryEntryAdded: "2020-10-09"
+RegistryEntryLastModified: "2020-10-09"
