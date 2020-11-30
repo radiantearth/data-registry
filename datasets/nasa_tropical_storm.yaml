@@ -11,12 +11,16 @@ Tags:
 DOI: 10.34911/rdnt.1x18sn
 Citation: "M. Maskey, R. Ramachandran, I. Gurung, B. Freitag, M. Ramasubramanian, J. Miller\"Tropical Cyclone Satellite Imagery and Wind Speed Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.1x18sn"
 Resources:
-  - Description: GOES Source Imagery 
-    CollectionID: 
+  - Description: GOES Training Source Imagery
+    CollectionID: nasa_tropical_storm_competition_train_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: GOES Test Source Imagery
+    CollectionID: nasa_tropical_storm_competition_test_source
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
   - Description: Storms wind speed
-    CollectionID:
+    CollectionID: nasa_tropical_storm_competition_train_labels
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
 DataAtWork:
@@ -33,4 +37,4 @@ DataAtWork:
 
 
 RegistryEntryAdded: "2020-10-09"
-RegistryEntryLastModified: "2020-10-09"
+RegistryEntryLastModified: "2020-11-30"
