@@ -1,0 +1,34 @@
+Name: Stanford African Crops South Sudaan
+Description: "TODO"
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/su-african-crops-south-sudan/documentation.pdf
+Contact: roserustowicz@gmail.com
+CreatedBy: "[Stanford University](https://www.stanford.edu/)"
+Tags:
+  - sentinel-1
+  - sentinel-2
+  - planetscope
+  - sar
+  - crop type
+  - agriculture
+DOI: TODO
+Citation: "TODO"
+Resources:
+  - Description: Labels
+    CollectionID: su_african_crops_south_sudan_labels
+    Type: Labels
+    License: "[TODO](TODO)"
+  - Description: PlanetScope Source Imagery
+    CollectionID: su_african_crops_south_sudan_source_planet
+    Type: Source Imagery
+    License: "[TODO](TODO)"
+  - Description: Sentinel-1 Source Imagery
+    CollectionID: su_african_crops_south_sudan_source_s1
+    Type: Source Imagery
+    License: "[TODO](TODO)"
+  - Description: Sentinel-2 Source Imagery
+    CollectionID: su_african_crops_south_sudan_source_s2
+    Type: Source Imagery
+    License: "[TODO](TODO)"
+
+RegistryEntryAdded: "2020-11-30"
+RegistryEntryLastModified: "2020-11-30"
