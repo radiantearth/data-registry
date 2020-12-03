@@ -1,16 +1,16 @@
-Name: Open Cities AI Challenge
-Description: TODO
+Name: Open Cities AI Challenge Dataset
+Description: "This dataset was developed as part of a challenge to segment building footprints from aerial imagery. The goal of the challenge was to accelerate the development of more accurate, relevant, and usable open-source AI models to support mapping for disaster risk management in African cities. The data consists of drone imagery from 10 different cities and regions across Africa"
 Documentation: TODO
 Draft: True
 Contact: njones@worldbankgroup.org
-CreatedBy: TODO
+CreatedBy: [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en)
 Tags:
   - building footprints
   - segmentation
-DOI: TODO
-Citation: TODO
+DOI: 10.34911/rdnt.f94cxb
+Citation: "GFDRR Labs (2020). \"Open Cities AI Challenge Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.f94cxb"
 Resources:
-  - Description: Testing Source Imagery
+  - Description: Test Source Imagery
     CollectionID: open_cities_ai_challenge_test
     Type: Source Imagery
     License: [ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)
