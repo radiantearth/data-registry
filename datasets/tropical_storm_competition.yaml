@@ -24,6 +24,11 @@ Resources:
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
 DataAtWork:
+  Tutorials:
+    - Title: How to use the Radiant MLHub API to browse and download the NASA Tropical Storm Wind Speed Competition Data
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/NASA%20Tropical%20Storm%20Wind%20Speed%20Challenge/nasa-tropical-storm-wind-speed-challenge-getting-started.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
   Tools & Applications:
     - Title: Deep Learning-based Hurricane Intensity Estimator
       URL: http://hurricane.dsig.net/storms/
