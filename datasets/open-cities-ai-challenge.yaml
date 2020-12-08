@@ -2,7 +2,7 @@ Name: Open Cities AI Challenge Dataset
 Description: "This dataset was developed as part of a challenge to segment building footprints from aerial imagery. The goal of the challenge was to accelerate the development of more accurate, relevant, and usable open-source AI models to support mapping for disaster risk management in African cities. The data consists of drone imagery from 10 different cities and regions across Africa"
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/open-cities-ai-challenge/documentation.pdf
 Contact: njones@worldbankgroup.org
-CreatedBy: [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en)
+CreatedBy: "[Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.orgen)"
 Tags:
   - building footprints
   - segmentation
@@ -12,23 +12,23 @@ Resources:
   - Description: Test Source Imagery
     CollectionID: open_cities_ai_challenge_test
     Type: Source Imagery
-    License: [ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)
+    License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
   - Description: Tier 1 Training Labels
     CollectionID: open_cities_ai_challenge_train_tier_1_labels
     Type: Labels
-    License: [ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)
+    License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
   - Description: Tier 1 Training Source Imagery
     CollectionID: open_cities_ai_challenge_train_tier_1_source
     Type: Source Imagery
-    License: [ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)
+    License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
   - Description: Tier 2 Training Labels
     CollectionID: open_cities_ai_challenge_train_tier_2_labels
     Type: Labels
-    License: [ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)
+    License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
   - Description: Tier 2 Training Source Imagery
     CollectionID: open_cities_ai_challenge_train_tier_2_source
     Type: Source Imagery
-    License: [ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)
+    License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
 DataAtWork:
   Tools & Applications:
     - Title: "Open Cities AI Challenge benchmark model"
