@@ -1,7 +1,6 @@
 Name: Open Cities AI Challenge Dataset
 Description: "This dataset was developed as part of a challenge to segment building footprints from aerial imagery. The goal of the challenge was to accelerate the development of more accurate, relevant, and usable open-source AI models to support mapping for disaster risk management in African cities. The data consists of drone imagery from 10 different cities and regions across Africa"
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/open-cities-ai-challenge/documentation.pdf
-Draft: True
 Contact: njones@worldbankgroup.org
 CreatedBy: [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en)
 Tags:
@@ -44,3 +43,6 @@ DataAtWork:
       AuthorName: Greg Lipstein
       AuthorURL: "https://www.linkedin.com/in/greg-lipstein/"
 
+
+RegistryEntryAdded: "2020-11-30"
+RegistryEntryLastModified: "2020-12-8"

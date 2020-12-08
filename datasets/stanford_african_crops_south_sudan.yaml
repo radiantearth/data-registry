@@ -14,7 +14,7 @@ Tags:
   - agriculture
   - segmentation
 DOI: 10.34911/rdnt.v6kx6n
-Citation: "Rustowicz R., Cheong R., Wang L., Ermon S., Burke M., Lobell D. (2020) \"Semantic Segmentation of Crop Type in South Sudan\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.v6kx6n"
+Citation: "Rustowicz R., Cheong R., Wang L., Ermon S., Burke M., Lobell D. (2020) \"Semantic Segmentation of Crop Type in South Sudan Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.v6kx6n"
 Resources:
   - Description: Labels
     CollectionID: su_african_crops_south_sudan_labels
@@ -41,4 +41,4 @@ DataAtWork:
 
 
 RegistryEntryAdded: "2020-11-30"
-RegistryEntryLastModified: "2020-12-3"
+RegistryEntryLastModified: "2020-12-8"
