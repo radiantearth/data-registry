@@ -31,18 +31,18 @@ Resources:
     Type: Source Imagery
     License: [ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)
 DataAtWork:
-  Tutorials:
-    - Title:
-      URL:
-      AuthorName:
-      AuthorURL:
   Tools & Applications:
-    - Title:
-      URL:
-      AuthorName:
+    - Title: "Open Cities AI Challenge benchmark model"
+      URL: "https://github.com/ntarn/open-cities-ai-challenge"
+      AuthorName: 
       AuthorURL:
   Publications:
-    - Title:
-      URL:
-      AuthorName:
-      AuthorURL:
+    - Title:  "The Open Cities AI Challenge"
+      URL: "https://towardsdatascience.com/the-open-cities-ai-challenge-3d0b35a721cc"
+      AuthorName: Dave Luo
+      AuthorURL: "https://medium.com/@anthropoco"
+    - Title: "Meet the Winner of the Open Cities AI Challenge"
+      URL: "https://www.drivendata.co/blog/open-cities-disaster-winners/"
+      AuthorName: Greg Lipstein
+      AuthorURL: "https://www.linkedin.com/in/greg-lipstein/"
+
