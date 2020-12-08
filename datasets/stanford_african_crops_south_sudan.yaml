@@ -1,0 +1,44 @@
+Name: Semantic Segmentation of Crop Type in South Sudan
+Description: "Automatic, accurate crop type maps can provide unprecedented information for understanding food systems, especially in developing countries where ground surveys are infrequent. However, little work has applied existing methods to these data scarce environments, which also have unique challenges of irregularly shaped fields, frequent cloud coverage, small plots, and a severe lack of training data. To address this gap in the literature, we provide the first crop type semantic segmentation dataset of small holder farms, specifically in Ghana and South Sudan. We are also the first to utilize high resolution, high frequency satellite data in segmenting small holder farms. 
+
+The dataset includes time series of satellite imagery from Sentinel-1, Sentinel-2, and PlanetScope satellites throughout 2016 and 2017. For each tile/chip in the dataset, there are time series of imagery from each of the satellites, as well as a corresponding label that defines the crop type at each pixel. The label has only one value at each pixel location, and assumes that the crop type remains the same across the full time span of the satellite image time series. In many cases where ground truth was not available, pixels have no label and are set to a value of 0."
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/su-african-crops-south-sudan/documentation.pdf
+Contact: roserustowicz@gmail.com
+CreatedBy: "[Stanford University](https://www.stanford.edu/)"
+Tags:
+  - sentinel-1
+  - sentinel-2
+  - planetscope
+  - sar
+  - crop type
+  - agriculture
+  - segmentation
+DOI: 10.34911/rdnt.v6kx6n
+Citation: "Rustowicz R., Cheong R., Wang L., Ermon S., Burke M., Lobell D. (2020) \"Semantic Segmentation of Crop Type in South Sudan Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.v6kx6n"
+Resources:
+  - Description: Labels
+    CollectionID: su_african_crops_south_sudan_labels
+    Type: Labels
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: PlanetScope Source Imagery
+    CollectionID: su_african_crops_south_sudan_source_planet
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: Sentinel-1 Source Imagery
+    CollectionID: su_african_crops_south_sudan_source_s1
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: Sentinel-2 Source Imagery
+    CollectionID: su_african_crops_south_sudan_source_s2
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+DataAtWork:
+  Publications:
+    - Title: "Semantic Segmentation of Crop Type in Africa: A Novel Dataset and Analysis of Deep Learning Methods"
+      URL: "https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.pdf"
+      AuthorName: Rose Rustowicz
+      AuthorURL: "https://www.linkedin.com/in/rose-rustowicz-ba0ba958/"
+
+
+RegistryEntryAdded: "2020-11-30"
+RegistryEntryLastModified: "2020-12-8"
