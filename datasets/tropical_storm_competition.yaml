@@ -1,0 +1,40 @@
+Name: Tropical Cyclone Wind Estimation Competition
+Description: "A collection of tropical storms in the Atlantic and East Pacific Oceans from 2000 to 2019 with corresponding maximum sustained surface wind speed. This dataset is split into training and test categories for the purpose of a competition."
+Draft: True
+Documentation: http://doi.org/10.1109/JSTARS.2020.3011907
+Contact: manil.maskey@nasa.gov
+CreatedBy: "[NASA Interagency Implementation and Advanced Concepts Team (IMPACT)](https://impact.earthdata.nasa.gov)"
+Tags:
+  - tropical storm
+  - regression
+  - goes
+DOI: 10.34911/rdnt.xs53up
+Citation: "M. Maskey, R. Ramachandran, I. Gurung, B. Freitag, M. Ramasubramanian, J. Miller\"Tropical Cyclone Wind Estimation Competition Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.xs53up"
+Resources:
+  - Description: GOES Training Source Imagery
+    CollectionID: nasa_tropical_storm_competition_train_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: GOES Test Source Imagery
+    CollectionID: nasa_tropical_storm_competition_test_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: Storms wind speed
+    CollectionID: nasa_tropical_storm_competition_train_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+DataAtWork:
+  Tools & Applications:
+    - Title: Deep Learning-based Hurricane Intensity Estimator
+      URL: http://hurricane.dsig.net/storms/
+      AuthorName: NASA IMPACT
+      AuthorURL: https://impact.earthdata.nasa.gov
+  Publications:
+    - Title: "Deepti: Deep-Learning-Based Tropical Cyclone Intensity Estimation System"
+      URL: http://doi.org/10.1109/JSTARS.2020.3011907
+      AuthorName: Manil Maskey
+      AuthorURL: https://www.linkedin.com/in/manilmaskey/
+
+
+RegistryEntryAdded: "2020-12-08"
+RegistryEntryLastModified: "2020-12-08"
