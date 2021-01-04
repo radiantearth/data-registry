@@ -33,9 +33,13 @@ DataAtWork:
   Tutorials:
     - Title: "Segmenting Buildings for Disaster Resilience - Benchmark"
       URL: "https://www.drivendata.co/blog/sgementing-buildings-benchmark/"
+      AuthorName: Azavea
+      AuthorURL: "https://www.azavea.com/"
   Tools & Applications:
     - Title: "Open Cities AI Challenge benchmark model"
       URL: "https://github.com/ntarn/open-cities-ai-challenge"
+      AuthorName: Azavea
+      AuthorURL: "https://www.azavea.com/"
   Publications:
     - Title:  "The Open Cities AI Challenge"
       URL: "https://towardsdatascience.com/the-open-cities-ai-challenge-3d0b35a721cc"
