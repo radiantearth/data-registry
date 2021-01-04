@@ -1,0 +1,36 @@
+Name: SpaceNet 7
+Description: "The SpaceNet 7 Multi-Temporal Urban Development Challenge aims to help address this deficit and develop novel computer vision methods for non-video time series data.
+<br><br>
+In this challenge, participants will identify and track buildings in satellite imagery time series collected over rapidly urbanizing areas.
+<br><br>
+The competition centers around a new open source dataset of Planet satellite imagery mosaics, which includes 24 images (one per month) covering ~100 unique geographies."
+Documentation: https://spacenet.ai/sn7-challenge/
+Contact: https://spacenet.ai/contact-us/
+CreatedBy: "[SpaceNet LLC](https://spacenet.ai/)"
+Tags:
+  - building footprints
+  - segmentation
+  - planetscope
+Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
+Resources:
+  - Description: SpaceNet 7 Training Labels
+    CollectionID: sn7_train_labels
+    Type: Labels
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: SpaceNet 7 Training Source Imagery
+    CollectionID: sn7_train_source
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+  - Description: SpaceNet 7 Test Source Imagery
+    CollectionID: sn7_test_source
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+DataAtWork:
+  Publications:
+    - Title: "The SpaceNet 7 Multi-Temporal Urban Development Challenge: Announcing the Winners"
+      URL: "https://medium.com/the-downlinq/the-spacenet-7-multi-temporal-urban-development-challenge-announcing-the-winners-847a9a53004c"
+      AuthorName: Adam Van Etten
+      AuthorURL: "https://www.linkedin.com/in/adamvanetten/"
+
+RegistryEntryAdded: "2021-01-04"
+RegistryEntryLastModified: "2021-01-04"
