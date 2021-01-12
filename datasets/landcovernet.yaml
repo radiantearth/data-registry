@@ -21,10 +21,14 @@ Resources:
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
 DataAtWork:
   Tutorials:
-    - Title: Accessing LandCoverNet through the Radiant MLHub API 
-      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-landcovernet.ipynb
+    - Title: "Accessing LandCoverNet through the Radiant MLHub API"
+      URL: "https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-landcovernet.ipynb"
       AuthorName: Kevin Booth
-      AuthorURL: https://www.linkedin.com/in/kbgg/
-
+      AuthorURL: "https://www.linkedin.com/in/kbgg/"
+  Publications:
+    - Title: "LandCoverNet: A global benchmark land cover classification training dataset"
+      URL: "https://arxiv.org/abs/2012.03111"
+      AuthorName: 
+      AuthorURL:
 RegistryEntryAdded: "2020-07-28"
-RegistryEntryLastModified: "2020-07-28"
+RegistryEntryLastModified: "2021-01-11"
