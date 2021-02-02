@@ -17,14 +17,17 @@ Resources:
     CollectionID: sn7_train_labels
     Type: Labels
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "387.8 MB"
   - Description: SpaceNet 7 Training Source Imagery
     CollectionID: sn7_train_source
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "3.5 GB"
   - Description: SpaceNet 7 Test Source Imagery
     CollectionID: sn7_test_source
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "1.2 GB"
 DataAtWork:
   Tools & Applications:
     - Title: "The SpaceNet 7 Baseline Algorithm"

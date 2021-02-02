@@ -31,10 +31,12 @@ Resources:
     CollectionID: microsoft_chesapeake_landsat_leaf_on
     Type: Source Imagery
     License: "[Landsat Data Distribution Policy](https://landsat.usgs.gov/sites/default/files/documents/Landsat_Data_Policy.pdf)"
+    DownloadSize: "87.5 GB"
   - Description: Landsat 8 leaf-off composite
     CollectionID: microsoft_chesapeake_landsat_leaf_off
     Type: Source Imagery
     License: "[Landsat Data Distribution Policy](https://landsat.usgs.gov/sites/default/files/documents/Landsat_Data_Policy.pdf)"
+    DownloadSize: "89.1 GB"
   - Description: Building footprint mask
     CollectionID: microsoft_chesapeake_buildings
     Type: Labels
