@@ -21,10 +21,12 @@ Resources:
     CollectionID: microsoft_chesapeake_lc
     Type: Labels
     License: "[CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/)"
+    DownloadSize: "1.1 GB"
   - Description: NLCD 2011 Labels
     CollectionID: microsoft_chesapeake_nlcd
     Type: Labels
     License: "[CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/)"
+    DownloadSize: "937.9 MB MB"
   - Description: Landsat 8 leaf-on composite
     CollectionID: microsoft_chesapeake_landsat_leaf_on
     Type: Source Imagery
@@ -37,6 +39,7 @@ Resources:
     CollectionID: microsoft_chesapeake_buildings
     Type: Labels
     License: "[Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/)"
+    DownloadSize: "93.5 MB"
 DataAtWork:
 
 RegistryEntryAdded: "2020-06-17"

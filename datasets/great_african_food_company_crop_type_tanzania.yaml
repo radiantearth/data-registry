@@ -16,6 +16,7 @@ Resources:
     CollectionID: ref_african_crops_tanzania_01_labels
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "193.9 KB"
   - Description: Source Imagery
     CollectionID: ref_african_crops_tanzania_01_source
     Type: Source Imagery

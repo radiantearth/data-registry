@@ -1,5 +1,5 @@
 Name: CV4A Kenya Crop Type Competition
-Description: "This dataset was produced as part of the [Crop Type Detection competition](https://zindi.africa/competitions/iclr-workshop-challenge-2-radiant-earth-computer-vision-for-crop-recognition) at the [Computer Vision for Agriculture (CV4A) Workshop](https://www.cv4gc.org/cv4a2020/) at the ICLR 2020 conference. The objective of the competition was to create a machine learning model to classify fields by crop type from images collected during the growing season by the Sentinel-2 satellites. 
+Description: "This dataset was produced as part of the [Crop Type Detection competition](https://zindi.africa/competitions/iclr-workshop-challenge-2-radiant-earth-computer-vision-for-crop-recognition) at the [Computer Vision for Agriculture (CV4A) Workshop](https://www.cv4gc.org/cv4a2020/) at the ICLR 2020 conference. The objective of the competition was to create a machine learning model to classify fields by crop type from images collected during the growing season by the Sentinel-2 satellites.
 <br><br>
 The ground reference data were collected by the PlantVillage team, and Radiant Earth Foundation curated the training dataset after inspecting and selecting more than 4,000 fields from the original ground reference data. The dataset has been split into training and test sets (3,286 in the train and 1,402 in the test).
 <br><br>
@@ -20,10 +20,12 @@ Resources:
     CollectionID: ref_african_crops_kenya_02_labels
     Type: Labels
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "247.0 KB"
   - Description: Source Imagery
     CollectionID: ref_african_crops_kenya_02_source
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "3.5 GB"
 DataAtWork:
   Tutorials:
     - Title: A Guide to Access the data on Radiant MLHub
