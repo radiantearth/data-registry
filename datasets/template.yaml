@@ -1,29 +1,30 @@
-Name: 
-Description: 
-Documentation: 
+Name:
+Description:
+Documentation:
 Draft:
-Contact: 
-CreatedBy: 
+Contact:
+CreatedBy:
 Tags:
 BoundingBox:
-DOI: 
-Citation: 
+DOI:
+Citation:
 Resources:
-  - Description: 
-    CollectionID: 
-    Type: 
-    License: 
+  - Description:
+    CollectionID:
+    Type:
+    License:
+    DownloadSize:
 DataAtWork:
   Tutorials:
-    - Title: 
-      URL: 
-      AuthorName: 
-      AuthorURL: 
+    - Title:
+      URL:
+      AuthorName:
+      AuthorURL:
   Tools & Applications:
-    - Title: 
-      URL: 
-      AuthorName: 
-      AuthorURL: 
+    - Title:
+      URL:
+      AuthorName:
+      AuthorURL:
   Publications:
     - Title:
       URL:

@@ -21,6 +21,7 @@ Resources:
     CollectionID: ref_african_crops_tanzania_01_source
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "40.7 GB"
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API

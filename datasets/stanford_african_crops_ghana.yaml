@@ -25,15 +25,17 @@ Resources:
     CollectionID: su_african_crops_ghana_source_planet
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "63.8 GB"
   - Description: Sentinel-1 Source Imagery
     CollectionID: su_african_crops_ghana_source_s1
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-    DownloadSize: "1.5 GB"
+    DownloadSize: "11.1 GB"
   - Description: Sentinel-2 Source Imagery
     CollectionID: su_african_crops_ghana_source_s2
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "7.6 GB"
 DataAtWork:
   Publications:
     - Title: "Semantic Segmentation of Crop Type in Africa: A Novel Dataset and Analysis of Deep Learning Methods"
