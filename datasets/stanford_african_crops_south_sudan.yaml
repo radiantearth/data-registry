@@ -29,6 +29,7 @@ Resources:
     CollectionID: su_african_crops_south_sudan_source_s1
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "29.9 GB"
   - Description: Sentinel-2 Source Imagery
     CollectionID: su_african_crops_south_sudan_source_s2
     Type: Source Imagery
