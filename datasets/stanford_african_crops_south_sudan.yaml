@@ -34,6 +34,7 @@ Resources:
     CollectionID: su_african_crops_south_sudan_source_s2
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "18.8 GB"
 DataAtWork:
   Publications:
     - Title: "Semantic Segmentation of Crop Type in Africa: A Novel Dataset and Analysis of Deep Learning Methods"
