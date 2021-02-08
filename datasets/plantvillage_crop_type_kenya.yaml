@@ -16,10 +16,12 @@ Resources:
     CollectionID: ref_african_crops_kenya_01_labels
     Type: Labels
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "259.2 KB"
   - Description: Source Imagery
     CollectionID: ref_african_crops_kenya_01_source
     Type: Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "5.2 GB"
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API

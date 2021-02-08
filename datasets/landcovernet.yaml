@@ -15,10 +15,12 @@ Resources:
     CollectionID: ref_landcovernet_v1_source
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "81.9 GB"
   - Description: Labels for LandCoverNet
     CollectionID: ref_landcovernet_v1_labels
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "18.3 MB"
 DataAtWork:
   Tutorials:
     - Title: "Accessing LandCoverNet through the Radiant MLHub API"
@@ -28,7 +30,7 @@ DataAtWork:
   Publications:
     - Title: "LandCoverNet: A global benchmark land cover classification training dataset"
       URL: "https://arxiv.org/abs/2012.03111"
-      AuthorName: 
+      AuthorName:
       AuthorURL:
 RegistryEntryAdded: "2020-07-28"
 RegistryEntryLastModified: "2021-01-11"

@@ -16,10 +16,12 @@ Resources:
     CollectionID: ref_african_crops_uganda_01_labels
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "238.7 KB"
   - Description: Source Imagery
     CollectionID: ref_african_crops_uganda_01_source
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "59.4 GB"
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API

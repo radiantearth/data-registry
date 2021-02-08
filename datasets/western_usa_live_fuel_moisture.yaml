@@ -15,6 +15,7 @@ Resources:
     CollectionID: su_sar_moisture_content
     Type: Labels
     License: "[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)"
+    DownloadSize: "3.6 MB"
 DataAtWork:
   Publications:
     - Title: "SAR-enhanced mapping of live fuel moisture content"

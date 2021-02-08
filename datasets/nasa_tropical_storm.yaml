@@ -11,8 +11,8 @@ Tags:
 DOI: 10.34911/rdnt.1x18sn
 Citation: "M. Maskey, R. Ramachandran, I. Gurung, B. Freitag, M. Ramasubramanian, J. Miller\"Tropical Cyclone Satellite Imagery and Wind Speed Dataset\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.1x18sn"
 Resources:
-  - Description: GOES Source Imagery 
-    CollectionID: 
+  - Description: GOES Source Imagery
+    CollectionID:
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
   - Description: Storms wind speed
