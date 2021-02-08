@@ -14,10 +14,12 @@ Resources:
     CollectionID: bigearthnet_v1_source
     Type: Source Imagery
     License: "[CDLA-Permissive-1.0](http://bigearth.net/downloads/documents/License.pdf)"
+    DownloadSize: "66.3 GB"
   - Description: Labels for BigEarthNet
     CollectionID: bigearthnet_v1_labels
     Type: Labels
     License: "[CDLA-Permissive-1.0](http://bigearth.net/downloads/documents/License.pdf)"
+    DownloadSize: "165.0 MB"
 DataAtWork:
   Tutorials:
     - Title: Accessing BigEarthNet through the Radiant MLHub API

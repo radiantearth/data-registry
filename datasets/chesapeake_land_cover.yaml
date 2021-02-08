@@ -17,26 +17,32 @@ Resources:
     CollectionID: microsoft_chesapeake_naip
     Type: Source Imagery
     License: "Public Domain with Attribution"
+    DownloadSize: "226.3 GB"
   - Description: Chesapeake Conservancy land cover labels
     CollectionID: microsoft_chesapeake_lc
     Type: Labels
     License: "[CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/)"
+    DownloadSize: "1.1 GB"
   - Description: NLCD 2011 Labels
     CollectionID: microsoft_chesapeake_nlcd
     Type: Labels
     License: "[CDLA-Permissive-1.0](https://cdla.io/permissive-1-0/)"
+    DownloadSize: "937.9 MB"
   - Description: Landsat 8 leaf-on composite
     CollectionID: microsoft_chesapeake_landsat_leaf_on
     Type: Source Imagery
     License: "[Landsat Data Distribution Policy](https://landsat.usgs.gov/sites/default/files/documents/Landsat_Data_Policy.pdf)"
+    DownloadSize: "87.5 GB"
   - Description: Landsat 8 leaf-off composite
     CollectionID: microsoft_chesapeake_landsat_leaf_off
     Type: Source Imagery
     License: "[Landsat Data Distribution Policy](https://landsat.usgs.gov/sites/default/files/documents/Landsat_Data_Policy.pdf)"
+    DownloadSize: "89.1 GB"
   - Description: Building footprint mask
     CollectionID: microsoft_chesapeake_buildings
     Type: Labels
     License: "[Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/)"
+    DownloadSize: "93.5 MB"
 DataAtWork:
 
 RegistryEntryAdded: "2020-06-17"

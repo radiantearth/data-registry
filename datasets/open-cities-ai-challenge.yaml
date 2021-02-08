@@ -13,22 +13,27 @@ Resources:
     CollectionID: open_cities_ai_challenge_test
     Type: Source Imagery
     License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
+    DownloadSize: "8.4 GB"
   - Description: Tier 1 Training Labels
     CollectionID: open_cities_ai_challenge_train_tier_1_labels
     Type: Labels
     License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
+    DownloadSize: "15.2 MB"
   - Description: Tier 1 Training Source Imagery
     CollectionID: open_cities_ai_challenge_train_tier_1_source
     Type: Source Imagery
     License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
+    DownloadSize: "30.1 GB"
   - Description: Tier 2 Training Labels
     CollectionID: open_cities_ai_challenge_train_tier_2_labels
     Type: Labels
     License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
+    DownloadSize: "42.9 MB MB"
   - Description: Tier 2 Training Source Imagery
     CollectionID: open_cities_ai_challenge_train_tier_2_source
     Type: Source Imagery
     License: "[ODbL-1.0](https://opendatacommons.org/licenses/odbl/1-0/)"
+    DownloadSize: "38.3 GB"
 DataAtWork:
   Tutorials:
     - Title: "Segmenting Buildings for Disaster Resilience - Benchmark"

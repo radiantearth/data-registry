@@ -19,10 +19,12 @@ Resources:
     CollectionID: sn5_AOI_7_Moscow
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "35.0 GB"
   - Description: SpaceNet 5 Mumbai Chipped Training Dataset
     CollectionID: sn5_AOI_8_Mumbai
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "18.5 GB"
 DataAtWork:
   Publications:
     - Title: "SpaceNet 5 Winning Model Release: End of the Road"
