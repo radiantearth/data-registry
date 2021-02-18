@@ -1,5 +1,5 @@
 Name: Tropical Cyclone Wind Estimation Competition
-Description: "A collection of tropical storms in the Atlantic and East Pacific Oceans from 2000 to 2019 with corresponding maximum sustained surface wind speed. This dataset is split into training and test categories for the purpose of a competition."
+Description: "A collection of tropical storms in the Atlantic and East Pacific Oceans from 2000 to 2019 with corresponding maximum sustained surface wind speed. This dataset is split into training and test categories for the purpose of a competition [Read more about the [competition](https://www.drivendata.org/competitions/72/predict-wind-speeds/)]."
 Documentation: http://doi.org/10.1109/JSTARS.2020.3011907
 Contact: manil.maskey@nasa.gov
 CreatedBy: "[NASA Interagency Implementation and Advanced Concepts Team (IMPACT)](https://impact.earthdata.nasa.gov)"
@@ -28,10 +28,18 @@ Resources:
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API to browse and download the NASA Tropical Storm Wind Speed Competition Data
-      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/NASA%20Tropical%20Storm%20Wind%20Speed%20Challenge/nasa-tropical-storm-wind-speed-challenge-getting-started.ipynb
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/NASA%20Tropical%20Storm%20Wind%20Speed%20Challenge/nasa-tropical-storm-wind-speed-challenge-getting-started.ipynb
       AuthorName: Kevin Booth
       AuthorURL: https://www.linkedin.com/in/kbgg/
+    - Title: "How to Use Deep Learning to Predict Tropical Storm Wind Speeds - Benchmark"
+      URL: https://www.drivendata.co/blog/predict-wind-speeds-benchmark/
+      AuthorName: Tammy Glazer
+      AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
   Tools & Applications:
+    - Title: "Benchmark - Wind-dependent Variables: Predict Wind Speeds of Tropical Storms"
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/NASA%20Tropical%20Storm%20Wind%20Speed%20Challenge/nasa-tropical-storm-wind-speed-challenge-benchmark.ipynb
+      AuthorName: Tammy Glazer
+      AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
     - Title: Deep Learning-based Hurricane Intensity Estimator
       URL: http://hurricane.dsig.net/storms/
       AuthorName: NASA IMPACT
