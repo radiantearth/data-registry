@@ -24,7 +24,7 @@ Resources:
 DataAtWork:
   Tutorials:
     - Title: "Accessing LandCoverNet through the Radiant MLHub API"
-      URL: "https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-landcovernet.ipynb"
+      URL: "https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/radiant-mlhub-landcovernet.ipynb"
       AuthorName: Kevin Booth
       AuthorURL: "https://www.linkedin.com/in/kbgg/"
   Publications:

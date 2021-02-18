@@ -25,7 +25,7 @@ Resources:
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API
-      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-api-know-how.ipynb
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/radiant-mlhub-api-know-how.ipynb
       AuthorName: Kevin Booth
       AuthorURL: https://www.linkedin.com/in/kbgg/
 
