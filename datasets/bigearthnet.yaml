@@ -23,7 +23,7 @@ Resources:
 DataAtWork:
   Tutorials:
     - Title: Accessing BigEarthNet through the Radiant MLHub API
-      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-bigearthnet.ipynb
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/radiant-mlhub-bigearthnet.ipynb
       AuthorName: Kevin Booth
       AuthorURL: https://www.linkedin.com/in/kbgg/
   Publications:

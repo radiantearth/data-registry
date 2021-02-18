@@ -29,17 +29,13 @@ Resources:
 DataAtWork:
   Tutorials:
     - Title: A Guide to Access the data on Radiant MLHub
-      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-download-data.ipynb
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-download-data.ipynb
       AuthorName: Hamed Alemohammad
       AuthorURL: https://www.linkedin.com/in/hamedalemohammad/
-    - Title: A Guide to load the data in Python
-      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-load-data.ipynb
+    - Title: A Guide to load and visualize the data in Python
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-load-data.ipynb
       AuthorName: Hamed Alemohammad
       AuthorURL: https://www.linkedin.com/in/hamedalemohammad/
-    - Title: Visualizing Data in Python
-      URL: https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/2020%20CV4A%20Crop%20Type%20Challenge/cv4a-crop-challenge-visualize-s2-data.ipynb
-      AuthorName: Marc Rußwurm
-      AuthorURL: https://www.linkedin.com/in/marcrusswurm/
     - Title: CV4A ICLR 2020 Starter Notebooks
       URL: https://github.com/sentinel-hub/cv4a-iclr-2020-starter-notebooks
       AuthorName: Devis Peressutti

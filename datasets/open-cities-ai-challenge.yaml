@@ -45,6 +45,10 @@ DataAtWork:
       URL: "https://github.com/ntarn/open-cities-ai-challenge"
       AuthorName: Azavea
       AuthorURL: "https://www.azavea.com/"
+    - Title: "Open Cities AI Challenge Winning Models"
+      URL: "https://github.com/drivendataorg/open-cities-ai-challenge/"
+      AuthorName: DrivenData
+      AuthorURL: "https://www.drivendata.org/"
   Publications:
     - Title:  "The Open Cities AI Challenge"
       URL: "https://towardsdatascience.com/the-open-cities-ai-challenge-3d0b35a721cc"
