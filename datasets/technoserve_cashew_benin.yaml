@@ -1,0 +1,30 @@
+Name: TechnoServe Benin Cashew Plantations
+Description: ""
+Draft: True
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/technoserve-cashew-benin/Documentation.pdf
+Contact: ml@radiant.earth
+CreatedBy: "[TechnoServe](https://www.technoserve.org/), [Radiant Earth Foundation](https://www.radiant.earth/)"
+Tags:
+  - crop type
+  - segmentation
+  - sentinel-2
+DOI:
+Citation: ""
+Resources:
+  - Description: Plantation Labels
+    CollectionID: ts_cashew_benin_labels
+    Type: Labels
+    License: "[]()"
+  - Description: Source Imagery
+    CollectionID: ts_cashew_benin_source
+    Type: Source Imagery
+    License: "[]()"
+DataAtWork:
+  Tutorials:
+    - Title: How to use the Radiant MLHub API
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/radiant-mlhub-api-know-how.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+
+RegistryEntryAdded: "2021-02-18"
+RegistryEntryLastModified: "2021-02-18"
