@@ -8,7 +8,7 @@ Tags:
   - sentinel-2
   - sar
   - flooding
-  - classification
+  - image classification
 DOI: 10.21227/w6xz-s898
 Citation: "Clément Rambour, Nicolas Audebert, Elise Koeniguer, Bertrand Le Saux, Michel Crucianu, Mihai Datcu, September 14, 2020, \"SEN12-FLOOD : a SAR and Multispectral Dataset for Flood Detection \", IEEE Dataport, doi: https://dx.doi.org/10.21227/w6xz-s898."
 Resources:
@@ -37,7 +37,7 @@ DataAtWork:
     - Title: "Flood Detection in Time Series of Optical and SAR Images"
       URL: "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1343/2020/"
       AuthorName: "Clément Rambour"
-      AuthorURL: "https://www.researchgate.net/profile/Clement-Rambour"
+      AuthorURL: "https://www.linkedin.com/in/cl%C3%A9ment-rambour-52449219b/"
 
 
 RegistryEntryAdded: "2021-02-23"
