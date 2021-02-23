@@ -7,7 +7,7 @@ Tags:
   - sentinel-1
   - sentinel-2
   - sar
-  - flooding
+  - flood detection
   - image classification
 DOI: 10.21227/w6xz-s898
 Citation: "Clément Rambour, Nicolas Audebert, Elise Koeniguer, Bertrand Le Saux, Michel Crucianu, Mihai Datcu, September 14, 2020, \"SEN12-FLOOD : a SAR and Multispectral Dataset for Flood Detection \", IEEE Dataport, doi: https://dx.doi.org/10.21227/w6xz-s898."
@@ -16,7 +16,7 @@ Resources:
     CollectionID: sen12floods_s1_labels
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
-    DownloadSize: "1010.6 KB"
+    DownloadSize: "1001.7 KB"
   - Description: Sentinel-1 Source Imagery
     CollectionID: sen12floods_s1_source
     Type: Source Imagery
