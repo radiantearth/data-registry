@@ -15,22 +15,22 @@ Resources:
   - Description: Sentinel-1 Labels
     CollectionID: sen12floods_s1_labels
     Type: Labels
-    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "1010.6 KB"
   - Description: Sentinel-1 Source Imagery
     CollectionID: sen12floods_s1_source
     Type: Source Imagery
-    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "5.9 GB"
   - Description: Sentinel-2 Labels
     CollectionID: sen12floods_s2_labels
     Type: Labels
-    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "811.3 KB"
   - Description: Sentinel-2 Source Imagery
     CollectionID: sen12floods_s2_source
     Type: Source Imagery
-    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "4.1 GB"
 DataAtWork:
   Publications:
