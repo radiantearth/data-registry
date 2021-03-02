@@ -1,4 +1,4 @@
-Name: TechnoServe Benin Cashew Plantations
+Name: Smallholder Cashew Plantations in Benin
 Description: ""
 Draft: True
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/technoserve-cashew-benin/Documentation.pdf
@@ -8,17 +8,19 @@ Tags:
   - crop type
   - segmentation
   - sentinel-2
-DOI:
-Citation: ""
+DOI: 10.34911/rdnt.hfv20i
+Citation: "Jin Z., Lin C., Weigl C., Obarowski J., & Hale, D. (2021) “Smallholder Cashew Plantations in Benin” Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.hfv20i"
 Resources:
   - Description: Plantation Labels
     CollectionID: ts_cashew_benin_labels
     Type: Labels
-    License: "[]()"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "1.3 MB"
   - Description: Source Imagery
     CollectionID: ts_cashew_benin_source
     Type: Source Imagery
-    License: "[]()"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "815.0 MB"
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API
