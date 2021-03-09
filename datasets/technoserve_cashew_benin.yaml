@@ -3,7 +3,7 @@ Description: "This dataset contains labels for cashew plantations in a 120 km^2 
 Draft: True
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/technoserve-cashew-benin/Documentation.pdf
 Contact: ml@radiant.earth
-CreatedBy: "[TechnoServe](https://www.technoserve.org/), [Radiant Earth Foundation](https://www.radiant.earth/)"
+CreatedBy: "[TechnoServe](https://www.technoserve.org/)
 Tags:
   - crop type
   - segmentation
