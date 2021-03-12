@@ -3,12 +3,12 @@ Description: "This dataset contains labels for cashew plantations in a 120 km^2 
 Draft: True
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/technoserve-cashew-benin/Documentation.pdf
 Contact: ml@radiant.earth
-CreatedBy: "[TechnoServe](https://www.technoserve.org/)
+CreatedBy: "[TechnoServe](https://www.technoserve.org/)"
 Tags:
   - crop type
   - segmentation
   - sentinel-2
-DOI: 10.34911/rdnt.hfv20i
+DOI: "10.34911/rdnt.hfv20i"
 Citation: "Jin Z., Lin C., Weigl C., Obarowski J., & Hale, D. (2021) “Smallholder Cashew Plantations in Benin” Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.hfv20i"
 Resources:
   - Description: Plantation Labels
