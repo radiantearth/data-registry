@@ -1,0 +1,44 @@
+Name: "SEN12-FLOOD : A SAR and Multispectral Dataset for Flood Detection"
+Description: "These last decades, Earth Observation brought quantities of new perspectives from geosciences to human activity monitoring. As more data became available, artificial intelligence techniques led to very successful results for understanding remote sensing data. Moreover, various acquisition techniques such as Synthetic Aperture Radar (SAR) can also be used for problems that could not be tackled only through optical images. This is the case for weather-related disasters such as floods or hurricanes, which are generally associated with large clouds cover. Yet, machine learning on SAR data is still considered challenging due to the lack of available labeled data. This dataset is composed of co-registered optical and SAR images time series for the detection of flood events."
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/sen12floods/documentation.pdf
+Contact: Bertrand.Le.Saux@esa.int
+CreatedBy: "[European Space Agency](https://esa.int/)"
+Tags:
+  - sentinel-1
+  - sentinel-2
+  - sar
+  - flood detection
+  - image classification
+DOI: 10.21227/w6xz-s898
+Citation: "Clément Rambour, Nicolas Audebert, Elise Koeniguer, Bertrand Le Saux, Michel Crucianu, Mihai Datcu, September 14, 2020, \"SEN12-FLOOD : a SAR and Multispectral Dataset for Flood Detection \", IEEE Dataport, doi: https://dx.doi.org/10.21227/w6xz-s898."
+Resources:
+  - Description: Sentinel-1 Labels
+    CollectionID: sen12floods_s1_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "1001.7 KB"
+  - Description: Sentinel-1 Source Imagery
+    CollectionID: sen12floods_s1_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "5.9 GB"
+  - Description: Sentinel-2 Labels
+    CollectionID: sen12floods_s2_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "811.3 KB"
+  - Description: Sentinel-2 Source Imagery
+    CollectionID: sen12floods_s2_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "4.1 GB"
+DataAtWork:
+  Publications:
+    - Title: "Flood Detection in Time Series of Optical and SAR Images"
+      URL: "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1343/2020/"
+      AuthorName: "Clément Rambour"
+      AuthorURL: "https://www.linkedin.com/in/cl%C3%A9ment-rambour-52449219b/"
+
+
+RegistryEntryAdded: "2021-02-23"
+RegistryEntryLastModified: "2021-02-23"
