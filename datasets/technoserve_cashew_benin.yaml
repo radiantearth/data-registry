@@ -1,5 +1,5 @@
 Name: Smallholder Cashew Plantations in Benin
-Description: "This dataset contains labels for cashew plantations in a 120 km^2 in the center of Benin. Each pixel is classified for Well-managed plantation, Poorly-managed plantation, No plantation and other classes. The labels are generated using a combination of ground data collection with a handheld GPS device, and final corrections based on Airbus Pléiades imagery."
+Description: "This dataset contains labels for cashew plantations in a 120 km^2 area in the center of Benin. Each pixel is classified for Well-managed plantation, Poorly-managed plantation, No plantation and other classes. The labels are generated using a combination of ground data collection with a handheld GPS device, and final corrections based on Airbus Pléiades imagery."
 Draft: True
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/technoserve-cashew-benin/Documentation.pdf
 Contact: ml@radiant.earth
