@@ -1,8 +1,10 @@
 Name: "A crop type dataset for consistent land cover classification in Central Asia"
 Description: "Land cover is a key variable in the context of climate change. In particular, crop type information is essential to understand the spatial distribution of water usage and anticipate the risk of water scarcity and the consequent danger of food insecurity. This applies to arid regions such as the Aral Sea Basin (ASB), Central Asia, where agriculture relies heavily on irrigation. Here, remote sensing is valuable to map crop types, but its quality depends on consistent ground-truth data. Yet, in the ASB, such data is missing. Addressing this issue, we collected thousands of polygons on crop types, 97.7% of which in Uzbekistan and the remaining in Tajikistan. We collected 8,196 samples between 2015 and 2018, 213 in 2011 and 26 in 2008. Our data compiles samples for 40 crop types and is dominated by “cotton” (40%) and “wheat”, (25%). These data were meticulously validated using expert knowledge and remote sensing data and relied on transferable, open-source workflows that will assure the consistency of future sampling campaigns."
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/idiv-asia-crop-types/documentation.pdf
-Contact: ruben.remelgado@idiv.de
-CreatedBy: "[German Centre for Integrative Biodiversity Research](https://www.idiv.de/en/index.html)"
+Contact: christopher.conrad@geo.uni-halle.de
+CreatedBy: 
+  - "[Institute of Geosciences and Geography](https://www.geo.uni-halle.de/)"
+  - "[German Centre for Integrative Biodiversity Research](https://www.idiv.de/en/groups_and_people/core_groups/macroecosocial.html)"
 Tags:
   - crop type
   - agriculture
@@ -23,4 +25,4 @@ DataAtWork:
       AuthorURL: "https://www.linkedin.com/in/rubenremelgado/"
 
 RegistryEntryAdded: "2021-03-04"
-RegistryEntryLastModified: "2021-03-15"
+RegistryEntryLastModified: "2021-03-24"
