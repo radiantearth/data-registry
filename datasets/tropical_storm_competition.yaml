@@ -35,7 +35,15 @@ DataAtWork:
       URL: https://www.drivendata.co/blog/predict-wind-speeds-benchmark/
       AuthorName: Tammy Glazer
       AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
+    - Title: "Meet the Winners of Wind-Dependent Variables: Predict Wind Speeds of Tropical Storms"
+      URL: https://www.drivendata.co/blog/wind-dependent-variables-winners/
+      AuthorName: Tammy Glazer
+      AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
   Tools & Applications:
+    - Title: "Winning Models of Wind-dependent Variables: Predict Wind Speeds of Tropical Storms"
+      URL: https://github.com/drivendataorg/wind-dependent-variables
+      AuthorName: Tammy Glazer
+      AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
     - Title: "Benchmark - Wind-dependent Variables: Predict Wind Speeds of Tropical Storms"
       URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/NASA%20Tropical%20Storm%20Wind%20Speed%20Challenge/nasa-tropical-storm-wind-speed-challenge-benchmark.ipynb
       AuthorName: Tammy Glazer
