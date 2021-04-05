@@ -20,11 +20,16 @@ Resources:
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "875.8 MB"
-  - Description: Storms wind speed
+  - Description: Training Storms Wind Speeds
     CollectionID: nasa_tropical_storm_competition_train_labels
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "7.2 MB"
+  - Description: Test Storms Wind Speeds
+    CollectionID: nasa_tropical_storm_competition_test_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "4.4 MB"
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API to browse and download the NASA Tropical Storm Wind Speed Competition Data
@@ -35,7 +40,15 @@ DataAtWork:
       URL: https://www.drivendata.co/blog/predict-wind-speeds-benchmark/
       AuthorName: Tammy Glazer
       AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
+    - Title: "Meet the Winners of Wind-Dependent Variables: Predict Wind Speeds of Tropical Storms"
+      URL: https://www.drivendata.co/blog/wind-dependent-variables-winners/
+      AuthorName: Tammy Glazer
+      AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
   Tools & Applications:
+    - Title: "Winning Models of Wind-dependent Variables: Predict Wind Speeds of Tropical Storms"
+      URL: https://github.com/drivendataorg/wind-dependent-variables
+      AuthorName: Tammy Glazer
+      AuthorURL: https://www.linkedin.com/in/tamara-glazer-44286776/
     - Title: "Benchmark - Wind-dependent Variables: Predict Wind Speeds of Tropical Storms"
       URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/NASA%20Tropical%20Storm%20Wind%20Speed%20Challenge/nasa-tropical-storm-wind-speed-challenge-benchmark.ipynb
       AuthorName: Tammy Glazer
@@ -52,4 +65,4 @@ DataAtWork:
 
 
 RegistryEntryAdded: "2020-12-08"
-RegistryEntryLastModified: "2020-12-08"
+RegistryEntryLastModified: "2021-04-05"
