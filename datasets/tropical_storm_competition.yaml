@@ -20,11 +20,16 @@ Resources:
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "875.8 MB"
-  - Description: Storms wind speed
+  - Description: Training Storms Wind Speeds
     CollectionID: nasa_tropical_storm_competition_train_labels
     Type: Labels
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
     DownloadSize: "7.2 MB"
+  - Description: Test Storms Wind Speeds
+    CollectionID: nasa_tropical_storm_competition_test_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "4.4 MB"
 DataAtWork:
   Tutorials:
     - Title: How to use the Radiant MLHub API to browse and download the NASA Tropical Storm Wind Speed Competition Data
@@ -60,4 +65,4 @@ DataAtWork:
 
 
 RegistryEntryAdded: "2020-12-08"
-RegistryEntryLastModified: "2020-12-08"
+RegistryEntryLastModified: "2021-04-05"
