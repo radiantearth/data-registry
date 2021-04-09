@@ -1,0 +1,41 @@
+Name: Drone Imagery Classification Training Dataset for Crop Types in Rwanda
+Description: "RTI International (RTI) generated 2,611 labeled point locations representing 19 different land cover types, clustered in 5 distinct agroecological zones within Rwanda.  These land cover types were reduced to three crop types (Banana, Maize, and Legume), two additional non-crop land cover types (Forest and Structure), and a catch-all Other land cover type to provide training/evaluation data for a crop classification model.  Each point is attributed with its latitude and longitude, the land cover type, and the degree of confidence the labeler had when classifying the point location.  For each location there are also three corresponding image chips (4.5 m x 4.5 m in size) with the point id as part of the image name.  Each image contains a P1, P2, or P3 designation in the name, indicating the time period.  P1 corresponds to December 2018, P2 corresponds to January 2019, and P3 corresponds to February 2019. These data were used in the development of research documented in greater detail in “Deep Neural Networks and Transfer Learning for Food Crop Identification in UAV Images” (Chew et al., 2020)."
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/rti-rwanda-crop-type/documentation.pdf
+Contact: jrin@rti.org
+CreatedBy: "[RTI International](https://www.rti.org/)"
+Tags:
+  - crop type
+  - segmentation
+  - drone
+DOI: "10.34911/rdnt.r4p1fr"
+Citation: "Rineer J., Beach R., Lapidus D., O’Neil M., Temple D., Ujeneza N., Cajka J., & Chew R. (2021) “Drone Imagery Classification Training Dataset for Crop Types in Rwanda”, Version 1.0, Radiant MLHub https://doi.org/10.34911/rdnt.r4p1fr"
+Resources:
+  - Description: Crop Type Labels
+    CollectionID: rti_rwanda_crop_type_labels
+    Type: Labels
+    License: "[CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+    DownloadSize: "838.4 KB"
+  - Description: Crop Type Source Imagery
+    CollectionID: rti_rwanda_crop_type_source
+    Type: Source Imagery
+    License: "[CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+    DownloadSize: "95.0 MB"
+  - Description: Raw Crop Type Source Imagery
+    CollectionID: rti_rwanda_crop_type_raw
+    Type: Source Imagery
+    License: "[CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+    DownloadSize: "26.8 GB"
+DataAtWork:
+  Publications:
+    - Title: "Deep Neural Networks and Transfer Learning for Food Crop Identification in UAV Images"
+      URL: "https://www.mdpi.com/2504-446X/4/1/7"
+      AuthorName: Robert Chew
+      AuthorURL: "https://www.linkedin.com/in/rfchew/"
+  Tutorials:
+    - Title: How to use the Radiant MLHub API
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/radiant-mlhub-api-know-how.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+
+RegistryEntryAdded: "2021-04-09"
+RegistryEntryLastModified: "2021-04-09"
