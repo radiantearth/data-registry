@@ -5,7 +5,7 @@ Contact: jrin@rti.org
 CreatedBy: "[RTI International](https://www.rti.org/)"
 Tags:
   - crop type
-  - segmentation
+  - image classification
   - drone
 DOI: "10.34911/rdnt.r4p1fr"
 Citation: "Rineer J., Beach R., Lapidus D., O’Neil M., Temple D., Ujeneza N., Cajka J., & Chew R. (2021) “Drone Imagery Classification Training Dataset for Crop Types in Rwanda”, Version 1.0, Radiant MLHub https://doi.org/10.34911/rdnt.r4p1fr"
