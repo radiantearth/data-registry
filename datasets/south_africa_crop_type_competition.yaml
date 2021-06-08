@@ -1,0 +1,42 @@
+Name: South Africa Crop Type Competition
+Description: ""
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/ref-south-africa-crops-competition-v1/documentation.pdf
+Contact: ml@radiant.earth
+CreatedBy: "[Radiant Earth Foundation](https://www.radiant.earth/)"
+Tags:
+  - crop type
+  - segmentation
+  - sentinel-2
+  - sentinel-1
+DOI: 10.34911/rdnt.j0co8q
+Citation: "Western Cape Department of Agriculture, Radiant Earth Foundation (2021) \"Crop Type Classification Dataset for Western Cape, South Africa\", Version 1.0, Radiant MLHub, [Date Accessed] https://doi.org/10.34911/rdnt.j0co8q"
+Resources:
+  - Description: Training Crop Type Labels
+    CollectionID: ref_south_africa_crops_competition_v1_train_labels
+    Type: Labels
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "247.0 KB"
+  - Description: Training Sentinel-2 Imagery
+    CollectionID: ref_south_africa_crops_competition_v1_train_source_s2
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "3.5 GB"
+  - Description: Training Sentinel-1 Imagery
+    CollectionID: ref_south_africa_crops_competition_v1_train_source_s1
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "3.5 GB"
+  - Description: Test Sentinel-2 Imagery
+    CollectionID: ref_south_africa_crops_competition_v1_test_source_s2
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "3.5 GB"
+  - Description: Test Sentinel-1 Imagery
+    CollectionID: ref_south_africa_crops_competition_v1_test_source_s1
+    Type: Source Imagery
+    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+    DownloadSize: "3.5 GB"
+DataAtWork:
+
+RegistryEntryAdded: "2021-06-08"
+RegistryEntryLastModified: "2021-06-08"
