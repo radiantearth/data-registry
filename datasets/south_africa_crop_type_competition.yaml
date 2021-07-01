@@ -1,5 +1,5 @@
 Name: South Africa Crop Type Competition
-Description: ""
+Description: "This dataset was produced as part of the [Radiant Earth Spot the Crop Challenge](LINK HERE). The objective of the competition was to create a machine learning model to classify fields by crop type from images collected during the growing season by the Sentinel-2 and Sentinel-1 satellites."
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/ref-south-africa-crops-competition-v1/documentation.pdf
 Contact: ml@radiant.earth
 CreatedBy: "[Radiant Earth Foundation](https://www.radiant.earth/)"
@@ -14,29 +14,39 @@ Resources:
   - Description: Training Crop Type Labels
     CollectionID: ref_south_africa_crops_competition_v1_train_labels
     Type: Labels
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-    DownloadSize: "247.0 KB"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "30.0 MB"
   - Description: Training Sentinel-2 Imagery
     CollectionID: ref_south_africa_crops_competition_v1_train_source_s2
     Type: Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-    DownloadSize: "3.5 GB"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "148.1 GB"
   - Description: Training Sentinel-1 Imagery
     CollectionID: ref_south_africa_crops_competition_v1_train_source_s1
     Type: Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-    DownloadSize: "3.5 GB"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "5.6 GB"
+  - Description: Test Crop Type Labels
+    CollectionID: ref_south_africa_crops_competition_v1_test_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "10.4 MB"
   - Description: Test Sentinel-2 Imagery
     CollectionID: ref_south_africa_crops_competition_v1_test_source_s2
     Type: Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-    DownloadSize: "3.5 GB"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "63.2 GB"
   - Description: Test Sentinel-1 Imagery
     CollectionID: ref_south_africa_crops_competition_v1_test_source_s1
     Type: Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-    DownloadSize: "3.5 GB"
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+    DownloadSize: "2.4 GB"
 DataAtWork:
+  Tutorials:
+    - Title: A Guide to Access the data on Radiant MLHub
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/South%20Africa%20Crop%20Types%20Competition/south_africa_crop_type_competition_load_asset_paths.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
 
 RegistryEntryAdded: "2021-06-08"
-RegistryEntryLastModified: "2021-06-08"
+RegistryEntryLastModified: "2021-07-01"
