@@ -20,7 +20,7 @@ Resources:
     CollectionID: ref_south_africa_crops_competition_v1_train_source_s2
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
-    DownloadSize: "148.1 GB"
+    DownloadSize: "52.1 GB"
   - Description: Training Sentinel-1 Imagery
     CollectionID: ref_south_africa_crops_competition_v1_train_source_s1
     Type: Source Imagery
@@ -35,7 +35,7 @@ Resources:
     CollectionID: ref_south_africa_crops_competition_v1_test_source_s2
     Type: Source Imagery
     License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
-    DownloadSize: "63.2 GB"
+    DownloadSize: "22.1 GB"
   - Description: Test Sentinel-1 Imagery
     CollectionID: ref_south_africa_crops_competition_v1_test_source_s1
     Type: Source Imagery
