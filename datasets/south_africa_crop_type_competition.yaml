@@ -1,5 +1,5 @@
 Name: South Africa Crop Type Competition
-Description: "This dataset was produced as part of the [Radiant Earth Spot the Crop Challenge](LINK HERE). The objective of the competition was to create a machine learning model to classify fields by crop type from images collected during the growing season by the Sentinel-2 and Sentinel-1 satellites."
+Description: "This dataset was produced as part of the [Radiant Earth Spot the Crop Challenge](https://zindi.africa/hackathons/radiant-earth-spot-the-crop-hackathon). The objective of the competition was to create a machine learning model to classify fields by crop type from images collected during the growing season by the Sentinel-2 and Sentinel-1 satellites."
 Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/ref-south-africa-crops-competition-v1/documentation.pdf
 Contact: ml@radiant.earth
 CreatedBy: "[Radiant Earth Foundation](https://www.radiant.earth/)"
@@ -47,6 +47,10 @@ DataAtWork:
       URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/South%20Africa%20Crop%20Types%20Competition/south_africa_crop_type_competition_load_asset_paths.ipynb
       AuthorName: Kevin Booth
       AuthorURL: https://www.linkedin.com/in/kbgg/
+    - Title: A Baseline Model for the Radiant Earth Spot the Crop Challenge
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/South%20Africa%20Crop%20Types%20Competition/Radiant_Earth_Spot_the_Crop_Baseline_Model.ipynb
+      AuthorName: Hamed Alemohammad
+      AuthorURL: https://www.linkedin.com/in/hamedalemo/  
 
 RegistryEntryAdded: "2021-06-08"
-RegistryEntryLastModified: "2021-07-01"
+RegistryEntryLastModified: "2021-07-02"
