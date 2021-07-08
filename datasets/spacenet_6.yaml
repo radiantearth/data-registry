@@ -16,7 +16,7 @@ Tags:
 Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
 Resources:
   - Description: SpaceNet 6 Rotterdam Chipped Training Dataset
-    CollectionID: sn6_AOI_11_Rotterdaam
+    CollectionID: sn6_AOI_11_Rotterdam
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 DataAtWork:

@@ -12,26 +12,10 @@ Tags:
 Citation: "SpaceNet on Amazon Web Services (AWS). “Datasets.” The SpaceNet Catalog.  Last modified April 30, 2018. Accessed on [Insert Date]. https://spacenetchallenge.github.io/datasets/datasetHomePage.html."
 Resources:
   - Description: SpaceNet 1 Rio Chipped Training Dataset
-    CollectionID: sn1_AOI_1_Rio
+    CollectionID: sn1_AOI_1_RIO
     Type: Labels, Source Imagery
     License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
     DownloadSize: "3.3 GB"
-  - Description: SpaceNet 1 Vegas Chipped Training Dataset
-    CollectionID: sn1_AOI_2_Vegas
-    Type: Labels, Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-  - Description: SpaceNet 1 Paris Chipped Training Dataset
-    CollectionID: sn1_AOI_3_Paris
-    Type: Labels, Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-  - Description: SpaceNet 1 Shanghai Chipped Training Dataset
-    CollectionID: sn1_AOI_4_Shanghai
-    Type: Labels, Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-  - Description: SpaceNet 1 Khartoum Chipped Training Dataset
-    CollectionID: sn1_AOI_5_Khartoum
-    Type: Labels, Source Imagery
-    License: "[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 DataAtWork:
   Publications:
     - Title: "Getting Started With SpaceNet Data"
