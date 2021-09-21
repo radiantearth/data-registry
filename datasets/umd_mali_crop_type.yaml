@@ -1,0 +1,34 @@
+Name: "2019 Mali Crop-Type Training Data for Machine Learning"
+Description: "Description Here"
+Draft: True
+Documentation: https://radiant-mlhub.s3-us-west-2.amazonaws.com/umd-mali-crop-type/documentation.pdf
+Contact: cnakalem@umd.edu
+CreatedBy:
+  - "[The University of Maryland](https://umd.edu/)"
+  - "[NASA Harvest](https://nasaharvest.org/)"
+Tags:
+  - sentinel-2
+  - crop type
+  - agriculture
+  - segmentation
+DOI: 10.34911/rdnt.tgz68o
+Citation: "Nakalembe, C., Ouedraogo, H., Diarra, N., Kuzimbu, B. (2021) \"2019 Mali Crop-Type Training Data for Machine Learning\", Version 1.0, Radiant MLHub. [Date Accessed] https://doi.org/10.34911/rdnt.tgz68o"
+Resources:
+  - Description: Labels
+    CollectionID: umd_mali_crop_type_labels
+    Type: Labels
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+  - Description: Sentinel-2 Source Imagery
+    CollectionID: umd_mali_crop_type_source
+    Type: Source Imagery
+    License: "[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+DataAtWork:
+  Tutorials:
+    - Title: How to use the Radiant MLHub API
+      URL: https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/radiant-mlhub-api-know-how.ipynb
+      AuthorName: Kevin Booth
+      AuthorURL: https://www.linkedin.com/in/kbgg/
+
+
+RegistryEntryAdded: "2021-03-26"
+RegistryEntryLastModified: "2021-03-26"
